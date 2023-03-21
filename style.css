@@ -1,0 +1,32 @@
+.titulo-tabelas {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.tabela-moda th {
+    font-size: 25px;
+    background-color: #bb86fc;
+    color: #fff;
+    padding: 10px;
+}
+
+.tabela-moda td {
+    font-size: 22px;
+    background-color: #424250;
+    color: #fff;
+    padding: 10px;
+}
+
+.tabela-casa th {
+    font-size: 25px;
+    background-color: #00c4b4;
+    color: #fff;
+    padding: 10px;
+}
+
+.tabela-casa td {
+    font-size: 22px;
+    background-color: #424250;
+    color: #fff;
+    padding: 10px;
+}
